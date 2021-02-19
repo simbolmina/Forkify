@@ -19,10 +19,6 @@ import addRecipeView from './views/addRecipeView.js';
 
 ///////////////////////////////////////
 
-// if (module.hot) {
-//   module.hot.accept();
-// }
-
 //controlRecepies();
 const controlRecepies = async function () {
   try {
